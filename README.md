@@ -24,6 +24,8 @@ EDA involved:
 - Visualizing rating distributions and genre counts.
 - Finding the highest and lowest-rated movies.
 - Calculating a better rating average.
+![image](https://github.com/user-attachments/assets/288c2c97-e8c8-40d6-aeb1-fd8d4f70301e)
+![image](https://github.com/user-attachments/assets/7c6a460f-e94e-407a-924c-3a0d9aac6a9d)
 
 ### Collaborative Filtering with SVD:
 - Trained using surprise library.
@@ -38,14 +40,19 @@ EDA involved:
 
 ### Evaluation:
 - Computing the RMSE and MAE for both models.
+![image](https://github.com/user-attachments/assets/60c41af6-8361-4417-8551-27f9fa4708cb)
+
 
 ### Results/Findings:
 - The hybrid model was more consistent. 
 - The goal was to have errors close to zero on average which is why the SVD model was preferable.
 
+![image](https://github.com/user-attachments/assets/07df6cec-fe5e-478f-beb7-2827dfe9bb84)
+
 ### Future Improvements:
 - Incorporate additional metadata (e.g., director, cast) into content-based filtering.
 - Explore deep learning approaches for recommendations.
+
 
 
   
